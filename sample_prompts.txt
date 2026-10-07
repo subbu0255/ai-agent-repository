@@ -1,0 +1,28 @@
+MAC CLASSROOM TEST PROMPTS
+
+1. Check my Mac status.
+
+2. What is my current CPU usage?
+
+3. Check my RAM usage.
+
+4. How much free disk space do I have?
+
+5. Check my battery status.
+
+6. My Mac is slow. Diagnose the problem.
+
+7. My Mac is slow. Check CPU and memory and create a ticket if necessary.
+
+8. Diagnose my Mac and tell me what might be causing the problem.
+
+DISCUSSION QUESTIONS
+
+1. Which values came from the real Mac?
+2. Which Python library provides the system metrics?
+3. Why did the agent choose a particular tool?
+4. What happens when CPU is normal?
+5. Why should the agent not create a ticket every time a user says "my Mac is slow"?
+6. What would you replace the local ticket tool with in production?
+7. Why is human approval useful before creating a real IT ticket?
+8. What additional diagnostic tools would you add?
